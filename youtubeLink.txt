@@ -3,8 +3,65 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-JapanesePod101 Live || JPod101.yt || Education
-https://www.youtube.com/watch?v=pOL3cy8mkpw
-
 ImamAli Live || ImamAli1.yt || Live
 https://www.youtube.com/watch?v=XrAtmNHkn4o
+
+ImamAli2 Live || ImamAli1.yt || Live
+https://www.youtube.com/watch?v=FKfg8aKuJzU
+
+Karbala Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=gN09-d3Uzuc
+
+Karbala2 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=yb_SmiaI5dc
+
+Karbala3 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=zpnKsPRY35g
+
+Karbala4 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=d0FTSwE_LIo
+
+Karbala5 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=komjxEv_QM0
+
+Karbala6 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=ASfVpLdS5T8
+
+Karbala7 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=USIC8EOem7c
+
+Karbala8 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=AH34C-9582I
+
+Karbala9 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=njGQbxRqauA
+
+AlKafeel Live || kafeel.yt || Live
+https://www.youtube.com/watch?v=CbbGMLANPHo
+
+AlAbbaas Shrine Live || Abbaas.yt || Live
+https://www.youtube.com/watch?v=K4152vWjXlo
+
+Karbala10 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=aAXb85EKMjk
+
+Karbala11 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=w1cCmPg4maM
+
+Karbala12 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=pPp7XXS8S9g
+
+Karbala13 Live || Karbala.yt || Live
+https://www.youtube.com/watch?v=bLqseYKeB1Q
+
+AlJawadain Live || Jawadain.yt || Live
+https://www.youtube.com/watch?v=7ukkFvtXZc8
+
+AlKufa Live || Kufa.yt || Live
+https://www.youtube.com/watch?v=Qo3B3EdY1d4
+
+AlKufa2 Live || Kufa.yt || Live
+https://www.youtube.com/watch?v=UNg-hIdZbxE
+
+Alwaai Live || AlWaai.yt || Live
+https://www.facebook.com/watch/?v=849106337231523
