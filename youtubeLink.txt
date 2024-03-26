@@ -2,36 +2,3 @@
 ## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
-
- imamalitvhd || imamalitvhd.yt || YouTube Live
-https://www.youtube.com/@imamalitvhd/UCi4CSgJk3i_slWnWG9Y14qA/streams
-
- KarbalatvGroup || KarbalatvGroup.yt || YouTube Live
-https://www.youtube.com/@KarbalatvGroup/UCI4gZRGRdfnfPajdxs8QtPQ/streams
-
- matamtv || matamtv.yt || YouTube Live
-https://www.youtube.com/@matamtv/UCaSeBpnrT1ghvR7beSwd5Lg/streams
-
- karbaladocumentary || karbaladocumentary.yt || YouTube Live
-https://www.youtube.com/@karbaladocumentary/UCynNgOLa6CI54xUMwoxWTCQ/streams
-
- alsadiq-TV || alsadiq-TV.yt || YouTube Live
-https://www.youtube.com/@alsadiq-TV/UC4TGfI8wOZ_pbLj8KsO31ng/streams
-
- alkafeeltv || alkafeeltv.yt || YouTube Live
-https://www.youtube.com/@alkafeeltv/UCaaBs5EwkPCs1wXIeMPP0bA/streams
-
- alshaaer || alshaaer.yt || YouTube Live
-https://www.youtube.com/@alshaaer/UCZM9BugHFu-8jsZ_nEYhVZw/streams
-
- AlQarmaziProductions || AlQarmaziProductions.yt || YouTube Live
-https://www.youtube.com/@AlQarmaziProductions/UCSKFv1UOJNCNs_ewR-ImQCQ/streams
-
- -aleishqalkarbilayiyu1331 || -aleishqalkarbilayiyu1331.yt || YouTube Live
-https://www.youtube.com/@-aleishqalkarbilayiyu1331/UCez0EUvAxXAewk-r0vYoMzg/streams
-
- holyshrines4856 || holyshrines4856.yt || YouTube Live
-https://www.youtube.com/@holyshrines4856/UCix7WZrVdX5jIDVJtDbbKSA/streams
-
- ImamAliNet || ImamAliNet.yt || YouTube Live
-https://www.youtube.com/@ImamAliNet/UCiE5ev_voWCwuIKfc0k2hOA/streams
