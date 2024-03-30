@@ -3,5 +3,5 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
- Al Qarmazi || Al Qarmzi.id || YouTube Live
-https://www.youtube.com/live/IrXTPxSEpCw?si=AEIqs1Xt04I6D5GG
+Al Qarmazi || Al Qarmzi.id || YouTube Live
+https://www.youtube.com/watch?v=twjm2r_waJ8
